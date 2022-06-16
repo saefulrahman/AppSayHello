@@ -2,10 +2,10 @@ package main
 
 import (
 	"fmt"
-	"github.com/saefulrahman/gomodules"
+	mod "github.com/saefulrahman/gomodules/v2"
 )
 
 func main() {
-	hello := gomodules.SayHello()
+	hello := mod.SayHello("Saeful Rahman")
 	fmt.Println(hello)
 }

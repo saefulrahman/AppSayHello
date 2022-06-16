@@ -2,3 +2,5 @@ github.com/saefulrahman/gomodules v1.0.3 h1:UiWAK1rItfRnS3vHRCE7Bx1xyr0tg/UO9CgW
 github.com/saefulrahman/gomodules v1.0.3/go.mod h1:JYKyrIjqO6Yr/PK41xokVt4Xar7hGR12SK/+56eQldI=
 github.com/saefulrahman/gomodules v1.1.1 h1:WpV3K1oof0JJwaHrFLDP/ET/RBx+c3184PAFL1kxyOk=
 github.com/saefulrahman/gomodules v1.1.1/go.mod h1:JYKyrIjqO6Yr/PK41xokVt4Xar7hGR12SK/+56eQldI=
+github.com/saefulrahman/gomodules/v2 v2.0.0 h1:UsvrOt3KWwlUl2ZyQmR+6f/OG7bF9vui5kz2RBjth9A=
+github.com/saefulrahman/gomodules/v2 v2.0.0/go.mod h1:w5Ka4/Hem2ul7+myjJDzA8FdaWo6mkmaQVpyEvkBxcQ=
